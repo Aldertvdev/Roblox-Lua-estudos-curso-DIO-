@@ -1,6 +1,6 @@
 Conheça a estrutura dobásico de Coddy 📚
 
-por exemplo, eu falei do print("Hello World"), vamos de exercícios 
+Por exemplo, eu falei do print("Hello World"), vamos de exercícios 
 ##
 > 🧑🏻‍🏫:  ("Wello World")
 para completar iremos usar:print 
@@ -8,9 +8,39 @@ para isso teremos
 👋🏻 print("Hello World")
 A função print() como disse, é usado paea exibir saida em Lua
 
-lembresse que disse sobre as aspas, podendo usar ' ou "
+EXERCÍCIOS 📝 
+
+Lembresse que disse sobre as aspas, podendo usar ' ou "
 e se usar ambas diferentes em um único codigo?
 
 • print('Good Morning") ❎ o código tera que usar aspas com pá correspondente 
 aspas como ('") causa erro pois tanto aspas quanto caracteres devem ser os mesmos 
 • print("Good Morning") ✅
+
+❗ E se usamos tudo MAIÚSCULO? é correto ou incorreto?
+print("Lua is fun") / print("Lua é engraçado") ✅
+PRINT("Lua is fun") ❎ o Lua diferencia M/m (Maiúsculo/Minúsculo), ou seja: PRINT não é o mesmo que print
+
+Mas podemos dizer que as mesma saidas são 
+> print('Hello')
+> print("Hello")
+
+❗ Desde que cada string use um par correspondente de aspas simples,
+uma unica aspa sozinha nao contribui um string completa
+
+AGORA QUAIS É O RESULTADO?
+
+os resultados aparecera nas aspas ou seja
+> print("Welcome!") aparecerá: Welcome! ✅
+sendo a função () imprime o texto exato sendo Welcome!
+
+AGORA o código print(Hello) não exibira: Hello
+pois sem aspas o nome é tratado como um nome de variável 
+
+FALAMOS SOBRE ESCREVER OS PARENTERES COM '
+> print('Good Morning') ✅
+Essa é uma aspa simples e cria um string valido em pares correspondente 
+asoas como 'Good Morning")❎ causa erro e a Lua trata como nome variáveis 
+
+
+Agora que você já conhece a estrutura, vá para a Desafios.
