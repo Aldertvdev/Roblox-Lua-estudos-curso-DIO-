@@ -1,22 +1,23 @@
-# 🌙 Lua Coddy - Meus Estudos
+# 🌙 Lua Coddy - Meus Estudos de Lua / Luau
 
-Repositório com todos os meus exercícios, desafios e anotações dos cursos de **Lua** no **Coddy** (plataforma de aprendizado).
+Repositório dedicado aos meus exercícios, desafios e anotações enquanto estudo **Lua** (com foco em **Luau** para Roblox Studio) através da plataforma **Coddy**.
 
-Foco principal: **Lua para Roblox Studio** (scripts, programação no servidor e cliente).
+## Sobre o Projeto
 
-## Sobre o repositório
-
-- **Objetivo**: Registrar meu progresso no aprendizado de Lua desde o zero.
-- **Tecnologias**: Lua + Roblox Studio
+- **Objetivo**: Documentar meu aprendizado de Lua desde o zero.
+- **Foco**: Programação no Roblox (ServerScript, LocalScript, Events, Tables, etc.).
 - **Status**: Em andamento 🚀
-- **Próximo passo**: Terminar as aulas iniciais e começar a criar mini-projetos no Roblox.
+- **Tecnologia principal**: Luau (versão otimizada do Lua usada pelo Roblox)
 
-# MEU ESTUDO
+## Estrutura do Repositório
 
 ```bash
 Lua-Coddy/
-├── README.md            
-├── Aula-01/INTRODUÇÃO
-├── Seção-01/07
-```
-# INTRODUÇÃO LUA
+├── README.md
+├── Aula-01/
+│   ├── README.md          ← Explicação + o que aprendi
+│   ├── exercicio-1.lua
+│   └── ...
+├── Aula-02/
+├── Anotacoes-Gerais.md
+└── Projetos/              ← Mini-projetos futuros
