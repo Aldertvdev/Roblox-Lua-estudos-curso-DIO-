@@ -10,12 +10,12 @@ Repositório com meus exercícios e anotações de **Lua (Luau)** enquanto estud
 
 ## O que já tenho
 
-- Pasta `Aula-01` com exercícios iniciais
+-🧑🏻‍🏫 Pasta [Aula-01](https://github.com/Aldertvdev/Lua-Coddy/blob/main/Aula-01) com exercícios iniciais
 - Arquivos `.lua` e explicações
 
 ## Progresso Atual
 
-- ✅ Aula 01 - Introdução e primeiros scripts
+- ✅ [Aula. 01](https://github.com/Aldertvdev/Lua-Coddy/blob/main/Aula-01) - Introdução e primeiros scripts
 - ⏳ Continuando as próximas aulas
 
 ## Tecnologias
