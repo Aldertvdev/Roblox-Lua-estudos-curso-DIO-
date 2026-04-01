@@ -1,6 +1,9 @@
 Conheça a estrutura dobásico de Coddy 📚
 
 por exemplo, eu falei do print("Hello World"), vamos de exercícios 
------
-🧑🏻‍🏫:  ("Wello World")
-para completar iremos usar `(oi)`
+##
+> 🧑🏻‍🏫:  ("Wello World")
+para completar iremos usar [`.selectFile()`](https://docs.cypress.io/api/commands/selectfile),para isso teremos
+👋🏻 print("Hello World")
+
+ 
