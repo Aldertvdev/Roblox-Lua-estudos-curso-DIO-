@@ -1,0 +1,41 @@
+DESAFIO 📝
+
+🧑🏻‍💻 Hello World!
+
+para deixar somente a escrita utilizamos 
+print("Hello World!)
+
+A saida desse código é
+-- print("Hello")
+print("World")
+
+o correto dizer que somente "World" é executado, somente ele aparece
+um sintaxe inicia corretamente a um comentário de uma linha: --
+esse dois hífens -- marca o início de um comentário de uma linha em LUA
+
+vamos no desafio🧑🏻‍🏫 
+> print("Line 1") / ("Linha 1")✅
+> -- print("Line 2") / -- ("Linha 2")❎
+> print(Line 3") / ("Linha 3")✅
+> print(Line 4") / ("Linha 4")✅
+
+as 2 linhas -- indica que NÃO SERA EXECUTADA, impedindo a execução do print 
+mas a sistaxe 
+> --[[ e ]] permite que usa comentarios no bloco para abrir e fechar, permitindo em varias linhas 
+
+exemplo 📝
+
+--[[
+Esta explicação se estente por varias linhas 
+]]
+print("Code runs here")
+
+correto:✅
+
+MEMORIZE A SAIDA 📝
+> -- print("Hello")
+print("World)
+
+a saida será: "World", pois a primeira print está comentada com -- então a segunda linha é executada 
+
+OBS: o > nao se escreve, apenas estou destacando os codigos em Lua
