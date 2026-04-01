@@ -5,6 +5,25 @@ Por Exemplo iniciamos com print("Hello Lua") ou print("Hello World")
 
 - Em seguida, preciamos adicionar um string a um parentese para nao deixar um espaço 
 totalmente vazio
+(um String é um par de aspas como "Hello Lua", podemos até 
+adicionar ou substituir para qualquer elemento basta colocar um Aspa "")
 
-um String é um par de aspas como "Hello Lua", podemos até 
-adicionar
+Vamos na prática 
+print("Seu Texto Aqui") ou print("Your text here")
+❗lembre-se que voce precisa envomver as aspas "" como eu disse anteriormente para ser criado o string.
+❗Outro fato é você poderá usar aspas como " ou ' ao redor do seu texto AMBAS FUNCIONAM DA MESMA FORMA EM LUA
+
+Como disse anteriormente, o programa tradicional seja no Roblox Studio, quando no programador tradicional aparecerá a esceita: 
+print("Hello World!").
+o texto exato Helo World! aparecerá na area de Saída, com simples programa sendo fundamental de produzir a saida em qualquer linguagem de programação
+
+O propósito das aspas: print("text") definem o text/texto como um string
+Vamos identificar um pequeno erro:
+1- print("First message") / print("Primeiea mensagem") ✅ Correto pois tem aspas indicando o string.
+2- print(Second message) / print(Segunda mensagem) ❎ o programa nao tem as aspas " ou '. sendo o alvo principal 
+3- print("Third Message") / print("Terceira mensagem") ✅
+❗ LEMBRANDO, para executar o código devera ser tudo igual, as aspas () nao devera ser separadamente 
+Exemplo:
+1- print("Hello World") ✅
+2- print ("Hello World" ) ❎
+
