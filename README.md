@@ -36,3 +36,5 @@ Repositório com meus exercícios e anotações de **Lua (Luau)** enquanto estud
 **Feito por Aldertvdev (Yuri Gabriel)**  
 Estudando para virar Engenheiro de Software  
 Atualizado em: Abril 2026
+
+git clone https://github.com/Aldertvdev/Lua-Coddy/issues/1
