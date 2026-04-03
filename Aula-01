@@ -1,5 +1,6 @@
 -- Introdução ao Lua
 
+```cpp
 Para exibir texto, use a função: print()
 Por Exemplo iniciamos com print("Hello Lua") ou print("Hello World")
 
