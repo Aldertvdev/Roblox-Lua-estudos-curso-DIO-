@@ -1,6 +1,6 @@
 -- Introdução ao Lua
 
-```Para exibir texto, use a função: print()
+Para exibir texto, use a função: print()
 Por Exemplo iniciamos com print("Hello Lua") ou print("Hello World")
 
 - Em seguida, preciamos adicionar um string a um parentese para nao deixar um espaço 
